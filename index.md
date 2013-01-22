@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Truffle Fans
+title: Truffle Hub
 tagline: we love truffle
 ---
 {% include JB/setup %}
